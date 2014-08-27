@@ -11,7 +11,7 @@ The source code is C++ and has not actual functionality. It is just intended as 
 * python (2.7)
 * sphinx (1.1.3)
 * doxygen (1.7.1)
-* breathe (3.0.0)
+* (breathe)[http://breathe.readthedocs.org] (3.0.0)
 
 How to build
 ------------
