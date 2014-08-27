@@ -3,3 +3,7 @@
 .pydevproject
 .settings/
 
+# We dont want to tract the built products
+docs/build/
+doxyxml/
+
