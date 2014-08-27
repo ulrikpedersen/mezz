@@ -1,7 +1,7 @@
 mezz
 ====
 
-A demo of using doxygen, sphinx and breathe in grand unison.
+A demo of using doxygen, sphinx and breathe in grand unison. What is with the funny name 'mezz'?  Well, names are difficult!!!
 
 Dependencies
 ------------
